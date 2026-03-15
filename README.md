@@ -39,7 +39,7 @@ Calculate your semester GPA and cumulative CGPA quickly with a clean UI.
 
 ## 📸 Screenshots
 
-> Paste screenshots here using Ctrl+V in the GitHub editor
+[![Homepage.png](https://i.postimg.cc/8CdysszK/Homepage.png)](https://postimg.cc/4KdvSftV)
 
 ---
 
