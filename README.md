@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-<img src='https://i.postimg.cc/dL3yFH3S/image.png' border='0' alt='image'>
+<img src='[https://i.postimg.cc/dL3yFH3S/image.png](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/UET_Taxila_logo.svg/1280px-UET_Taxila_logo.svg.png)' border='0' alt='image'>
 </p>
 
 <p align="center">
