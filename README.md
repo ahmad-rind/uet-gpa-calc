@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=20&pause=1000&color=1A56A0&center=true&width=500&lines=UET+GPA+Calculator;Built+for+UET+Taxila+Students+🎓" />
+<img src='https://i.postimg.cc/dL3yFH3S/image.png' border='0' alt='image'>
 </p>
 
 <p align="center">
