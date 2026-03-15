@@ -1,6 +1,13 @@
-<!-- Typing SVG -->
+<!-- Header -->
 <p align="center">
-<img src='https://i.postimg.cc/bD6wFPx1/1280px-UET-Taxila-logo-svg.png' border='0' alt='1280px-UET-Taxila-logo-svg'>
+  <img src='https://i.postimg.cc/bD6wFPx1/1280px-UET-Taxila-logo-svg.png' width="120px" alt='UET Taxila Logo'>
+</p>
+
+<h1 align="center">UET GPA Calculator</h1>
+
+<p align="center">
+  <i>A smart GPA & CGPA calculator built for students of<br>
+  <b>University of Engineering and Technology, Taxila</b> 🎓</i>
 </p>
 
 <p align="center">
